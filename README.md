@@ -45,3 +45,44 @@ The framework integrates **numerical modeling (WRF)**, **machine learning downsc
 
 ✅ The hybrid approach improved spatial detail and reduced errors, demonstrating robust generalizability across multiple heatwave periods.
 
+---
+### 🛠️ Technical Environment
+| Component | Version / Tool |
+|------------|----------------|
+| Python | 3.9+ |
+| XGBoost | 2.0+ |
+| Hyperopt | 0.2.7 |
+| GDAL / Rasterio | 3.6+ |
+| NumPy / Pandas / Scikit-learn | Latest stable |
+| ArcGIS Pro / QGIS | For visualization |
+| WRF Model | v4.3.3 |
+
+---
+
+### 🧾 Citation
+If you use this repository or data in your research, please cite as:
+
+> Ganjirad, M., Bagheri, H., (2025).  
+> **A Hybrid WRF–XGBoost–FAHP Framework for Multi-Year Urban Heat Stress Risk Assessment in Tehran (2019–2022)**.  
+> *(Manuscript under review)*.
+
+---
+
+### 📬 Contact
+**Author:** Mohammad Ganjirad  
+**Email:** [moh.ganjirad@gmail.com]  
+**GitHub:** [https://github.com/mganjirad](https://github.com/mganjirad)
+
+---
+
+### 🪴 License
+This project is licensed under the **MIT License** – free to use, modify, and share with proper attribution.
+
+---
+
+### 💡 Highlights
+- Multi-year heatwave simulation (2019–2022) using WRF  
+- Data-driven downscaling with explainable ML  
+- Comprehensive socio-environmental risk assessment via FAHP  
+- Reproducible and transferable framework for other urban regions  
+
