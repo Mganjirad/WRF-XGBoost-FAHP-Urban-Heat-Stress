@@ -1,4 +1,4 @@
-# WRF-XGBoost-FAHP-Urban-Hear-Stress
+# WRF-XGBoost-FAHP-Urban-Heat-Stress
 A hybrid modeling framework integrating WRF, XGBoost, and Fuzzy AHP for multi-year urban heat stress risk assessment in Tehran (2019–2022).
 
 ### 🧠 Overview
@@ -18,6 +18,9 @@ The framework integrates **numerical modeling (WRF)**, **machine learning downsc
 ---
 
 ### ⚙️ Methodological Workflow
+<img width="4794" height="5744" alt="2) Methodology" src="https://github.com/user-attachments/assets/de7067e4-c7bb-4d0a-aa6a-d123538d6653" />
+
+
 
 #### 1️⃣ WRF-Based Numerical Downscaling
 - Dynamic simulation of near-surface air temperature (**T2**)  
