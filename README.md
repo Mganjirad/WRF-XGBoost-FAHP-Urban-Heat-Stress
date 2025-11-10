@@ -1,4 +1,4 @@
-# WRF-XGBoost-FAHP-Urban-Heat-Stress
+# WRF-XGBoost-FAHP-Urban-Heat-Stress-Risk
 A hybrid modeling framework integrating WRF, XGBoost, and Fuzzy AHP for multi-year urban heat stress risk assessment in Tehran (2019–2022).
 
 ### 🧠 Overview
